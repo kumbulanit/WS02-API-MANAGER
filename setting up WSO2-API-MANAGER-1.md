@@ -11,6 +11,7 @@ ISetting up WSO2 API Manager involves several steps, from downloading the softwa
      ```
    - **Windows**: Download and install JDK 11 from the [Oracle](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) or [OpenJDK](https://jdk.java.net/archive/) websites.
 
+***JAVA_HOME*** make sure JAVA_HOME variable is setup , follow tutorial for setting java on ubuntu https://github.com/kumbulanit/WS02-API-MANAGER/blob/main/setting%20java%20on%20ubuntu.md
 3. **Database** (Optional): WSO2 API Manager uses an embedded H2 database by default. For production use, you may need external databases like MySQL, PostgreSQL, or Oracle.
 
 4. **Memory**: Ensure that the system has at least 4GB of RAM.
